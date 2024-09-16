@@ -1,0 +1,1008 @@
+body{
+    background-color: rgb(250, 213, 220);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+.love{
+    margin-top: 100px;
+    font-size: 60px;
+    float:center;
+    text-align: center;
+}
+h2{
+    color:rgb(255, 121, 168);
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 1px;
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    filter:drop-shadow(3px 3px 3px black);
+}
+.start a{
+    background-color: rgb(247, 110, 133);
+    border-color: black;
+    border-style: solid;
+    border-radius: 25px;
+    color:black;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    font-weight: bold;
+    float:center;
+    margin-left: 520px;
+    padding: 20px;
+    filter:drop-shadow(5px 5px 5px black);
+}
+.start a:hover{
+    border-color: white;
+    color: white;
+}
+.back a{
+    background-color: rgb(250, 213, 220);
+    border-color: rgb(247, 110, 133);
+    border-style: solid;
+    border-radius: 10px;
+    color: rgb(247, 110, 133);
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    font-weight: bold;
+    float:right;
+    margin-right: 50px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.back a:hover{
+    border-color: white;
+    color: white;
+}
+fieldset{
+    width: 450px;
+    float: center;
+    margin-left: 390px;
+    border-radius: 45px;
+    border-color: rgb(247, 110, 133);
+}
+legend{
+    text-align: center;
+    font-size: 30px;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: black;
+}
+table{
+    text-align: left;
+    margin-left: 20px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color:black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+h1{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50pt;
+    margin-top: 80px;
+    color:rgb(255, 121, 168);
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 1px;
+    filter:drop-shadow(3px 3px 3px black);
+}
+.suratpersegi{
+    background-color:rgb(250, 150, 167);
+    width: 400px;
+    height: 300px;
+    float:center;
+    margin-left: 430px;
+    border-radius: 5px;
+    margin-bottom: 30px;
+    box-shadow: 6px 6px 5px;
+}
+.suratsegitiga{
+    background-color: rgb(247, 110, 133);
+    height:0px;
+	width:0px;
+	border-top:solid 130px rgb(247, 110, 133);
+	border-left:solid 200px rgb(250, 150, 167);
+	border-right:solid 200px rgb(250, 150, 167);
+    float:center;
+    margin-left: 0px;
+    margin-top: 50px;
+    border-radius: 5px;
+    margin-bottom: 30px; 
+    font-size: 80px;
+    box-shadow: 10px;
+}
+.tombollove a{
+    font-size: 80px;
+    margin-left: 145px;
+    float: center;
+    text-decoration: none;
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    font-weight: bold;
+    float: center;
+    margin-left: 500px;
+}
+figcaption{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    font-weight: bold;
+}
+.journey{
+    display: inline-block;
+    text-align: center;
+    float: left;
+    margin-left: 180px;
+    margin-top: 50px;
+}
+.journey a{
+    text-decoration: none;
+    font-size: 120px;
+}
+.quiz{
+    display: inline-block;
+    text-align: center;
+    float: left;
+    margin-left: 10px;
+    margin-top: 75px;
+}
+.quiz a{
+    text-decoration: none;
+    font-size: 100px;
+}
+.gift{
+    display: inline-block;
+    text-align: center;
+    float: left;
+    margin-left: 10px;
+    margin-top: 75px;
+}
+.gift a{
+    text-decoration: none;
+    font-size: 100px;
+}
+.massage{
+    display: inline-block;
+    text-align: center;
+    float: left;
+    margin-left: 10px;
+    margin-top: 75px;
+}
+.massage a{
+    text-decoration: none;
+    font-size: 100px;
+}
+.back1 a{
+    background-color: rgb(250, 213, 220);
+    border-color: rgb(247, 110, 133);
+    border-style: solid;
+    border-radius: 10px;
+    color: rgb(247, 110, 133);
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    font-weight: bold;
+    float:right;
+    margin-right: 50px;
+    padding: 10px;
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+.back a{
+    background-color: rgb(250, 213, 220);
+    border-color: rgb(247, 110, 133);
+    border-style: solid;
+    border-radius: 10px;
+    color: rgb(247, 110, 133);
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    font-weight: bold;
+    float:right;
+    margin-right: 50px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.back1 a:hover{
+    border-color: white;
+    color: white;
+}
+.g1{
+    background-color: rgb(250, 150, 167);
+    border-color: black;
+    border-style: solid;
+    border-radius: 5px;
+    text-decoration: none;
+    float:left;
+    margin-left: 150px;
+    margin-top: 50px;
+    height:490px;
+    width: 375px;
+}
+.g1 img{
+    border-color: black;
+    border-style: solid;
+    border-radius: 15px;
+}
+.g1:hover{
+    background-color: white;
+}
+.g2{
+    background-color: rgb(250, 150, 167);
+    border-color: black;
+    border-style: solid;
+    border-radius: 5px;
+    text-decoration: none;
+    float:right;
+    margin-right: 150px;
+    margin-top: 50px;
+    height:490px;
+    width: 375px;
+}
+.g2 img{
+    border-color: black;
+    border-style: solid;
+    border-radius: 15px;
+}
+.g2:hover{
+    background-color: white;
+}
+.g3{
+    background-color: rgb(250, 150, 167);
+    border-color: black;
+    border-style: solid;
+    border-radius: 5px;
+    text-decoration: none;
+    float:left;
+    margin-left: 150px;
+    margin-top: 80px;
+    height:490px;
+    width: 375px;
+}
+.g3 img{
+    border-color: black;
+    border-style: solid;
+    border-radius: 15px;
+}
+.g3:hover{
+    background-color: white;
+}
+.g4{
+    background-color: rgb(250, 150, 167);
+    border-color: black;
+    border-style: solid;
+    border-radius: 5px;
+    text-decoration: none;
+    float:right;
+    margin-right: 150px;
+    margin-top: 80px;
+    height:490px;
+    width: 375px;
+}
+.g4 img{
+    border-color: black;
+    border-style: solid;
+    border-radius: 15px;
+}
+.g4:hover{
+    background-color: white;
+}
+.g5{
+    background-color: rgb(250, 150, 167);
+    border-color: black;
+    border-style: solid;
+    border-radius: 5px;
+    text-decoration: none;
+    float:right;
+    margin-right: 340px;
+    margin-top: 80px;
+    height:335px;
+    width: 560px;
+}
+.g5 img{
+    border-color: black;
+    border-style: solid;
+    border-radius: 15px;
+}
+.g5:hover{
+    background-color: white;
+}
+.g6{
+    background-color: rgb(250, 150, 167);
+    border-color: black;
+    border-style: solid;
+    border-radius: 5px;
+    text-decoration: none;
+    float:right;
+    margin-right: 340px;
+    margin-top: 80px;
+    height:335px;
+    width: 560px;
+}
+.g6 img{
+    border-color: black;
+    border-style: solid;
+    border-radius: 15px;
+}
+.g6:hover{
+    background-color: white;
+}
+.back2 a{
+    background-color: rgb(250, 213, 220);
+    border-color: rgb(247, 110, 133);
+    border-style: solid;
+    border-radius: 10px;
+    color: rgb(247, 110, 133);
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    font-weight: bold;
+    float:right;
+    margin-top: 50px;
+    margin-right: 550px;
+    padding: 10px;
+    margin-bottom: 40px;
+}
+.back2 a:hover{
+    border-color: white;
+    color: white;
+}
+.kertassurat{
+    background-color: rgb(255, 230, 234);
+    border-color: rgb(247, 110, 133);
+    border-radius: 15px;
+    border-style: dashed;
+    float: left;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.kertassurat img{
+    float:left;
+    margin-left: 15px;
+    margin-top: 15px;
+    border-color: black;
+    border-style: solid;
+    border-top-left-radius: 15px;
+    margin-right: 20px;
+}
+.deskripsipoto{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20pt;
+    width:auto;   
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-top: 15px;
+    text-align: justify;
+    color: black;
+    margin-left: 5px;
+    text-indent: 50px;
+    margin-bottom: 15px;
+}
+.q1{
+    border-style: dashed;
+    padding: 30px;
+    float: center;
+    margin-bottom: 50px;
+}
+.q1 legend{
+    font-size:40px;
+}
+.q1 table{
+    font-size: 30px;
+    margin-left: 30px;
+}
+.next a{
+    background-color: rgb(250, 213, 220);
+    border-color: rgb(247, 110, 133);
+    border-style: solid;
+    border-radius: 10px;
+    color: rgb(247, 110, 133);
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    font-weight: bold;
+    float:left;
+    margin-left: 500px;
+    padding: 10px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+.next a:hover{
+    border-color: white;
+    color: white;
+}
+.pre a{
+    background-color: rgb(250, 213, 220);
+    border-color: rgb(247, 110, 133);
+    border-style: solid;
+    border-radius: 10px;
+    color: rgb(247, 110, 133);
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    font-weight: bold;
+    float:left;
+    margin-left: 475px;
+    padding: 10px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+.pre a:hover{
+    border-color: white;
+    color: white;
+}
+.yes1 a{
+    background-color: rgb(250, 213, 220);
+    border-color: rgb(247, 110, 133);
+    border-style: solid;
+    border-radius: 10px;
+    color: rgb(247, 110, 133);
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    font-weight: bold;
+    float:left;
+    margin-left: 110px;
+    padding: 10px;
+    margin-bottom: 20px;
+    margin-top: 5px;
+}
+.yes1 a:hover{
+    border-color: white;
+    color: white;
+}
+.no1 a{
+    background-color: rgb(250, 213, 220);
+    border-color: rgb(247, 110, 133);
+    border-style: solid;
+    border-radius: 10px;
+    color: rgb(247, 110, 133);
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    font-weight: bold;
+    float:left;
+    padding: 10px;
+    margin-bottom: 20px;
+    margin-top: 5px;
+}
+.no1 a:hover{
+    border-color: white;
+    color: white;
+}
+.yes2 a{
+    background-color: rgb(250, 213, 220);
+    border-color: rgb(247, 110, 133);
+    border-style: solid;
+    border-radius: 10px;
+    color: rgb(247, 110, 133);
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    font-weight: bold;
+    float:left;
+    margin-left: 60px;
+    padding: 10px;
+    margin-bottom: 20px;
+    margin-top: 5px;
+}
+.yes2 a:hover{
+    border-color: white;
+    color: white;
+}
+.no2 a{
+    background-color: rgb(250, 213, 220);
+    border-color: rgb(247, 110, 133);
+    border-style: solid;
+    border-radius: 10px;
+    color: rgb(247, 110, 133);
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    font-weight: bold;
+    float:left;
+    margin-left: 160px;
+    padding: 10px;
+    margin-bottom: 20px;
+    margin-top: 150px;
+}
+.no2 a:hover{
+    border-color: white;
+    color: white;
+}
+.yes3 a{
+    background-color: rgb(250, 213, 220);
+    border-color: rgb(247, 110, 133);
+    border-style: solid;
+    border-radius: 10px;
+    color: rgb(247, 110, 133);
+    font-size: 120px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    font-weight: bold;
+    float:left;
+    margin-left: 20px;
+    padding: 10px;
+    margin-bottom: 20px;
+    margin-top: 5px;
+}
+.yes3 a:hover{
+    border-color: white;
+    color: white;
+}
+.no3 a{
+    background-color: rgb(250, 213, 220);
+    border-color: rgb(247, 110, 133);
+    border-style: solid;
+    border-radius: 10px;
+    color: rgb(247, 110, 133);
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    font-weight: bold;
+    float:left;
+    padding: 10px;
+    margin-bottom: 20px;
+    margin-top: 100px;
+}
+.no3 a:hover{
+    border-color: white;
+    color: white;
+}
+.no4 a{
+    background-color: rgb(250, 213, 220);
+    border-color: rgb(247, 110, 133);
+    border-style: solid;
+    border-radius: 10px;
+    color: rgb(247, 110, 133);
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.no4 a:hover{
+    border-color: white;
+    color: white;
+}
+.no5 a{
+    background-color: rgb(250, 213, 220);
+    border-color: rgb(247, 110, 133);
+    border-style: solid;
+    border-radius: 10px;
+    color: rgb(247, 110, 133);
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-top: 100px;
+}
+.no5 a:hover{
+    border-color: white;
+    color: white;
+}
+.no6 a{
+    background-color: rgb(250, 213, 220);
+    border-color: rgb(247, 110, 133);
+    border-style: solid;
+    border-radius: 10px;
+    color: rgb(247, 110, 133);
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.no6 a:hover{
+    border-color: white;
+    color: white;
+}
+.no7 a{
+    background-color: rgb(250, 213, 220);
+    border-color: rgb(247, 110, 133);
+    border-style: solid;
+    border-radius: 10px;
+    color: rgb(247, 110, 133);
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-top: 570px;
+}
+.no7 a:hover{
+    border-color: white;
+    color: white;
+}
+.no8 a{
+    background-color: rgb(250, 213, 220);
+    border-color: rgb(247, 110, 133);
+    border-style: solid;
+    border-radius: 10px;
+    color: rgb(247, 110, 133);
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-top: 800px;
+}
+.no8 a:hover{
+    border-color: white;
+    color: white;
+}
+.ultimatum a{
+    background-color: rgb(250, 213, 220);
+    border-color: rgb(247, 110, 133);
+    border-style: solid;
+    border-radius: 10px;
+    color: rgb(247, 110, 133);
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    font-weight: bold;
+    float:left;
+    margin-left: 20px;
+    padding: 10px;
+    margin-bottom: 20px;
+    margin-top: 5px;
+}
+.ultimatum a:hover{
+    border-color: white;
+    color: white;
+}
+.nextq a{
+    background-color: rgb(250, 213, 220);
+    border-color: rgb(247, 110, 133);
+    border-style: solid;
+    border-radius: 10px;
+    color: rgb(247, 110, 133);
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    font-weight: bold;
+    float:right;
+    margin-right: 450px;
+    padding: 10px;
+    margin-top: 20px;
+}
+.nextq a:hover{
+    border-color: white;
+    color: white;
+}
+.pencet{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    font-weight: bold;
+    float: left;
+    margin-left: 380px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.kotak{
+    width: 700px;
+    height: 450px;
+    background-color: rgb(247, 110, 133);
+    float: left;
+    background-position: center;
+    margin-left: 280px;
+}
+.bg1{
+    background-color: rgb(250, 213, 220);
+}
+.tebakan1 a{
+    background-color: rgb(247, 110, 133);
+    border-color: white;
+    border-style: solid;
+    border-radius: 10px;
+    color: white;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    font-weight: bold;
+    float:right;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 80px;
+}
+.tebakan1 a:hover{
+    background-color: white;
+    border-color: black;
+}
+.tebakan2 a{
+    background-color: rgb(247, 110, 133);
+    border-color: white;
+    border-style: solid;
+    border-radius: 10px;
+    color: white;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    font-weight: bold;
+    float:right;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 80px;
+}
+.tebakan2 a:hover{
+    background-color: white;
+    border-color: black;
+}
+.tebakan3 a{
+    background-color: rgb(247, 110, 133);
+    border-color: white;
+    border-style: solid;
+    border-radius: 10px;
+    color: white;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    font-weight: bold;
+    float:left;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 80px;
+}
+.tebakan3 a:hover{
+    background-color: white;
+    border-color: black;
+}
+.LongText{
+    display: inline-block;
+    text-align: center;
+    float: left;
+    margin-left: 200px;
+    margin-top: 10px;
+}
+.LongText a{
+    text-decoration: none;
+    font-size: 120px;
+}
+.cardmassage{
+    display: inline-block;
+    text-align: center;
+    float: left;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+.cardmassage a{
+    text-decoration: none;
+    font-size: 120px;
+}
+.sleepcall{
+    display: inline-block;
+    text-align: center;
+    float: left;
+    margin-right: 25px;
+    margin-top: 20px;
+}
+.sleepcall a{
+    text-decoration: none;
+    font-size: 110px;
+}
+.deeptalk{
+    display: inline-block;
+    text-align: center;
+    float: left;
+    margin-top: 7px;
+}
+.deeptalk a{
+    text-decoration: none;
+    font-size: 120px;
+}
+.t1{
+    background-color: rgb(173, 0, 0);
+    margin-left: 160px;
+    float: left;
+    height: 210px;
+    width: 300px;
+    margin-top: 50px;
+}
+.t1 a{
+    text-decoration: none;
+}
+.t1 :hover{
+    background-color: rgb(214, 0, 0);
+}
+.t2{
+    background-color: rgb(173, 0, 0);
+    margin-left: 30px;
+    float: left;
+    height: 210px;
+    width: 300px;
+    margin-top: 50px;
+}
+.t2 a{
+    text-decoration: none;
+}
+.t2 :hover{
+    background-color: rgb(214, 0, 0);
+}
+.t3{
+    background-color: rgb(173, 0, 0);
+    margin-left: 160px;
+    float: left;
+    height: 210px;
+    width: 300px;
+    margin-top: 50px;
+}
+.t3 a{
+    text-decoration: none;
+}
+.t3 :hover{
+    background-color: rgb(214, 0, 0);
+}
+.t4{
+    background-color: rgb(173, 0, 0);
+    margin-left: 30px;
+    float: left;
+    height: 210px;
+    width: 300px;
+    margin-top: 50px;
+}
+.t4 a{
+    text-decoration: none;
+}
+.t4 :hover{
+    background-color: rgb(214, 0, 0);
+}
+.bt{
+    border-color: white;
+    border-style: solid;
+    background-color: rgb(173, 0, 0);
+    margin-top: 8px;
+    margin-left: 8px;
+    height: 190px;
+    width: 280px;
+}
+.bt a{
+    text-decoration: none;
+}
+.bt :hover{
+    background-color: rgb(214, 0, 0);
+}
+.isitiket{
+    border-color: white;
+    border-style: solid;
+    border-top-style: none;
+    background-color: rgb(173, 0, 0);
+    margin-left: 55px;
+    height: 190px;
+    width: 170px;
+}
+.ttiket{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 10px;
+    text-align: center;
+}
+.tulisantiket{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 25px;
+}
+.reqdate{
+    float: left;
+    margin-top: 50px;
+    margin-left: 380px;
+    border-radius: 35px;
+    border-style: dotted;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+:root {
+    --speech-bubble-background: rgb(250, 163, 178);
+}
+.sb {
+    position: relative;
+    margin-left: 250px;
+    background: var(--speech-bubble-background);
+    border-radius: 150px;
+    height: 950px;
+    width: 850px;
+}
+.sb::before,
+.sb::after {
+    content: '';
+
+    position: absolute;
+    bottom: 0;
+    left: 0;
+
+    border-radius: 9999px;
+    background: var(--speech-bubble-background);
+}
+.sb::before {
+    height: 150px;
+    width: 150px;
+    margin-left: -60px;
+    margin-bottom: -60px;
+    float:left;
+    transform: translate(-0.5px, 0.5px);
+    border-radius: 60px;
+}
+.sb::after {
+    height: 80px;
+    width: 80px;
+    transform: translate(-50px, 50px);
+    margin-left: -80px;
+    margin-bottom: -80px;
+    float:left;
+    border-radius: 30px;
+}
+.massage2{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 22px;
+    font-weight: bold;
+    float: left;
+    margin-left: 80px;
+    margin-right: 80px;
+    text-align: justify;
+    margin-bottom: 20px;
+    margin-top: 80px;
+    text-indent: 50px;
+}
+.i{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 600px;
+    margin-left: 50px;
+    float: left;
+    color: rgb(255, 121, 168);
+    filter:drop-shadow(10px 10px 10px black);
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 1px;
+}
+.bgt{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 600px;
+    margin-left: 50px;
+    float: left;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 1px;
+    background-image: url(https://img.freepik.com/premium-vector/cute-cat-kitten-cartoon-doodle-seamless-pattern_40564-285.jpg);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    background-size: cover;
+    filter:drop-shadow(10px 10px 10px);
+    text-transform: uppercase;
+}
+.lgede{
+    height: 600px;
+    width: 800px;
+    float: left;
+    margin-left: 50px;
+    margin-top: 40px;
+    filter:drop-shadow(10px 10px 10px black);
+    animation: heart 0.9s linear infinite;
+}
+@keyframes heart{
+    0%{
+        transform: rotate(-0deg) scale(1.1);
+    }
+    80%{
+        transform: rotate(-0deg) scale(1.0);
+    }
+    100%{
+        transform: rotate(-0deg) scale(0.9);
+    }
+}
